@@ -26,7 +26,7 @@ import (
 	"strings"
 
 	e "github.com/pjebs/jsonerror"
-	"gopkg.in/unrolled/render.v1"
+	"github.com/unrolled/render"
 )
 
 type AuthenticationSource int
